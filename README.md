@@ -26,3 +26,4 @@ DevOps can help to improve the speed, quality, and reliability of software devel
 
 ## Conclusion
 DevOps is a powerful methodology that can help to improve software development and deployment processes. By adopting DevOps principles and using the right tools, teams can reduce errors, improve communication, and deliver high-quality software more quickly and reliably.
+lesson from [DevOps Certification](https://www.igmguru.com/course/devops-certification-training/).
